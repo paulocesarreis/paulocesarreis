@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @paulocesartecnologo, studient in Eletronic Enginner,Front-End,AutoCard. 
+- 👀 I’m interested in Linux Desktop/Server and MicroControler,SOC Devel
